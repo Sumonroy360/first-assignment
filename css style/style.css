@@ -31,6 +31,7 @@
      font-size: 72px;
      font-weight: 900;
 }
+
 /* header style end hare */
 
 
@@ -64,4 +65,48 @@
      font-size: 48px;
      font-weight: 700;
 }
+
 /* offer section style end */
+
+
+/* midnight party section start hare */
+.midnight-party-section {
+     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../images/Vectorrr.png);
+     width: 1320px;
+     height: 600px;
+}
+
+.midnight-party-text{
+     padding: 126px 500px 142px 126px;
+}
+
+.midnight-title {
+     color: #FFF;
+     font-size: 64px;
+     font-weight: 900;
+     letter-spacing: 7.04px;
+}
+
+.midnight-description {
+     color: rgba(255, 255, 255, 0.80);
+     font-family: sans-serif;
+     font-size: 18px;
+     font-weight: 400;
+     margin-bottom: 48px;
+     margin-top: 24px;
+
+}
+
+.midnight-btn {
+     color: #FFF;
+     text-align: center;
+     font-family: sans-serif;
+     font-size: 20px;
+     font-style: normal;
+     font-weight: 700;
+     line-height: normal;
+     text-transform: uppercase;
+     background-color: transparent;
+     border: 0px;
+}
+/* midnight party section end hare */
