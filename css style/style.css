@@ -1,0 +1,33 @@
+* {
+     margin: 0px;
+     margin-top: 10px;
+     margin-left: 25px;
+     font-family: "Merriweather", serif;
+
+}
+
+/* header related style */
+
+.header-container {
+     border-radius: 16px;
+     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner\ Image.png');
+     background-repeat: no-repeat;
+     width: 1320px;
+     height: 600px;
+}
+
+.header-text {
+     color: #FFF;
+     text-align: center;
+     padding:150px 344px 117px 344px;
+}
+
+.header-title-1 {
+     font-size: 32px;
+     font-weight: 400;
+}
+
+.header-title-2 {
+     font-size: 72px;
+     font-weight: 900;
+}
